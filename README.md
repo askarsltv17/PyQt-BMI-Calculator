@@ -16,6 +16,19 @@ A professional Body Mass Index (BMI) calculator built using **Python** and **PyQ
 | 25.0 – 29.9 | Overweight | Orange |
 | 30.0 and above | Obese | Red |
 
+## Screenshots
+### Underweight Example
+![Normal Weight](screenshots/Underweight.PNG)
+
+### Normal_weight Status Example
+![Obese](screenshots/Normal_weight.PNG)
+
+### Overweight Example
+![Normal Weight](screenshots/Overweightt.PNG)
+
+### Obese Status Example
+![Obese](screenshots/Obese.PNG)
+
 ## Requirements
 - Python 3.x
 - PyQt6
