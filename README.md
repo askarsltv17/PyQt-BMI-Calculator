@@ -18,13 +18,13 @@ A professional Body Mass Index (BMI) calculator built using **Python** and **PyQ
 
 ## Screenshots
 ### Underweight Example
-![Normal Weight](screenshots/Underweight.PNG)
+![Underweight](screenshots/Underweight.PNG)
 
-### Normal_weight Status Example
-![Obese](screenshots/Normal_weight.PNG)
+### Normalweight Status Example
+![Normalweight](screenshots/Normalweight.PNG)
 
 ### Overweight Example
-![Normal Weight](screenshots/Overweightt.PNG)
+![Overweight](screenshots/Overweight.PNG)
 
 ### Obese Status Example
 ![Obese](screenshots/Obese.PNG)
